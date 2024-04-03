@@ -1,5 +1,6 @@
 <script setup lang="ts">
 const { count } = useCount();
+  //1
 </script>
 
 <template>
